@@ -2,7 +2,7 @@
 
 
 <themes>
-<data xml="https://raw.githubusercontent.com/OmarShawkey13/osmod-store/main/Xml/" wall="walls" scs="screens"/>
+<data Xml="https://raw.githubusercontent.com/OmarShawkey13/osmod-store/main/Xml/" Wall="https://raw.githubusercontent.com/OmarShawkey13/osmod-store/main/Wall/" scs="screens"/>
 <theme>
 <title>Name</title>
 <date>Date</date>
