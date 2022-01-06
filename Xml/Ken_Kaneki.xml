@@ -1,0 +1,521 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="cevronDrawer" value="-16748801" />
+    <boolean name="AeroCevrimiciNoktaRenk_Gactive" value="false" />
+    <int name="Header_atas" value="-263173" />
+    <int name="tittle_size" value="17" />
+    <boolean name="disable_hiddenchat_access" value="false" />
+    <boolean name="my_statusd" value="true" />
+    <int name="RcTargetColor" value="-657931" />
+    <int name="navigasi" value="-16777216" />
+    <boolean name="imsHideVStatus" value="false" />
+    <boolean name="Text_nama_Gactive" value="false" />
+    <boolean name="HazarGorulmeyenHikaye_Gactive" value="false" />
+    <boolean name="date_bubble_color_picker_Gactive" value="false" />
+    <int name="HomeText" value="-16777216" />
+    <int name="ikonDrawer" value="-16579837" />
+    <boolean name="Conv_call_btn" value="false" />
+    <boolean name="ModFabTextColor_Gactive" value="false" />
+    <string name="aero_ikondegistir_silinenmesaj">0</string>
+    <int name="attachCiat" value="-16416001" />
+    <int name="statuses_bar_bg_picker_GC" value="-1223887" />
+    <boolean name="isSwipeEnabled" value="true" />
+    <boolean name="NormalFABRengi_Gactive" value="false" />
+    <boolean name="key_quick_textcolor_check" value="true" />
+    <boolean name="ModOnlineColor_check" value="true" />
+    <int name="aero_isim_rengi" value="-13290187" />
+    <boolean name="hiden_fab" value="false" />
+    <boolean name="HomeBarText_Gactive" value="false" />
+    <int name="key_fab_color_GC" value="822083583" />
+    <int name="key_tab_card" value="-1" />
+    <int name="AerosayiRenk" value="-13290187" />
+    <int name="ConvoBack" value="-1" />
+    <boolean name="onlinechat" value="true" />
+    <int name="key_tab_color" value="-1" />
+    <int name="ArsivMetin1" value="-1118482" />
+    <boolean name="enable_fivminstatus" value="false" />
+    <int name="aero_yaziyor_rengi" value="-1118482" />
+    <string name="convostyle">5</string>
+    <boolean name="ModFabBgColor_Gactive" value="false" />
+    <int name="HomeCounterBK" value="-12434878" />
+    <int name="ModChatBubbleTextLeft" value="-16777216" />
+    <int name="ModChatColor_GC" value="-1223887" />
+    <boolean name="enable_grp_separationV2" value="false" />
+    <int name="quoted_divider_picker" value="2171169" />
+    <int name="ModFabTextColor" value="-12237499" />
+    <boolean name="key_counter_tx_Gactive" value="false" />
+    <int name="border_poto" value="-263173" />
+    <int name="rcEmojiColor" value="-13290187" />
+    <int name="list_bg_color" value="-1" />
+    <boolean name="ModConTextColor_Gactive" value="false" />
+    <boolean name="group_mypicV2" value="false" />
+    <int name="ProfilResmiCerceve" value="-16777216" />
+    <int name="SearchViw" value="-1710619" />
+    <int name="AeroCevrimiciNoktaRenk3" value="-13290187" />
+    <boolean name="yo_hideinfo" value="true" />
+    <boolean name="attachChat_Gactive" value="false" />
+    <int name="AeroCevrimiciNoktaRenk2" value="-1118482" />
+    <string name="aero_ikondegistir_alttab1">0</string>
+    <string name="aero_ikondegistir_alttab2">0</string>
+    <boolean name="tabadgeBKColor_Gactive" value="false" />
+    <int name="ModFabBgColor" value="16777215" />
+    <boolean name="arch_chats_top" value="false" />
+    <boolean name="hide_profile" value="false" />
+    <boolean name="onlineDotchat" value="false" />
+    <int name="ModChatBubbleHyperlinks" value="-14841627" />
+    <boolean name="sekmeleri_gizle" value="false" />
+    <int name="ModlastseenColor" value="-4342339" />
+    <boolean name="Hide_contact_picker_section_frequent_chats" value="false" />
+    <int name="ModDarkConPickColorNav" value="-1" />
+    <int name="aeroHazarBarRenk" value="-13290187" />
+    <string name="font">Default</string>
+    <boolean name="on_anim" value="false" />
+    <int name="statuses_bar_bg_picker_GCDir" value="1" />
+    <boolean name="statuschat" value="true" />
+    <int name="AerosohbetlerRenk" value="-13290187" />
+    <int name="NonAktifTab" value="-16777216" />
+    <int name="Text_Status" value="-11645362" />
+    <boolean name="HomeBarBar_Gactive" value="false" />
+    <int name="Img_highres_seek" value="1" />
+    <int name="runtex" value="-263173" />
+    <boolean name="ModDarkConPickColorNav_Gactive" value="false" />
+    <int name="key_counter_bg" value="-12434878" />
+    <int name="ModChatColor" value="-1" />
+    <boolean name="kota_an_njero_Gactive" value="false" />
+    <boolean name="ArsivMetin1_Gactive" value="false" />
+    <boolean name="hiden_ig" value="false" />
+    <boolean name="key_quick_bg_check" value="true" />
+    <string name="ui_home_style">1</string>
+    <boolean name="HomeCounterBK_Gactive" value="false" />
+    <string name="aero_hazar_elegantmod">0</string>
+    <string name="AeroHikayeTasarim">0</string>
+    <boolean name="AeroCevrimiciNoktaRenk3_Gactive" value="false" />
+    <int name="key_quick_textcolor" value="-12434878" />
+    <string name="time_online_toast_key">0</string>
+    <boolean name="read_check" value="false" />
+    <boolean name="chat_icon_bg_forward_picker_Gactive" value="false" />
+    <boolean name="ModWdgTitleColor_Gactive" value="false" />
+    <boolean name="date_right_color_Gactive" value="false" />
+    <int name="key_fab_stroke" value="1" />
+    <int name="key_toolbar_picker" value="-12434878" />
+    <boolean name="navigasi_Gactive" value="false" />
+    <boolean name="Img_share_limit" value="true" />
+    <boolean name="SohbetFabGizle" value="false" />
+    <boolean name="hide_jid" value="false" />
+    <boolean name="hide_fab" value="true" />
+    <boolean name="status_ch_Gactive" value="false" />
+    <string name="aero_ikondegistir_yenidurum1">0</string>
+    <boolean name="ModChatGStatusT_Gactive" value="false" />
+    <string name="aero_ikondegistir_yenidurum2">0</string>
+    <boolean name="seeseen" value="false" />
+    <boolean name="aero_hikaye_bildirimi" value="false" />
+    <string name="ui_bottom_style">ios</string>
+    <int name="RcBkTabs" value="-16777216" />
+    <boolean name="my_name" value="true" />
+    <boolean name="TxtSelect" value="false" />
+    <int name="pagetitle_picker" value="-2763307" />
+    <string name="tabs_fix">2</string>
+    <int name="ModFabColor" value="-263173" />
+    <int name="ModChatDarkColor" value="-1" />
+    <boolean name="key_fab_color_check" value="true" />
+    <boolean name="key_toolbar_wave" value="false" />
+    <boolean name="ModlastseenColor_check" value="true" />
+    <boolean name="key_hide_topscroll" value="true" />
+    <int name="AeroCevrimiciNoktaSoldanKaydir" value="0" />
+    <string name="aero_ikondegistir_gecemod">0</string>
+    <int name="emojipopup_header_GC" value="-1223887" />
+    <boolean name="hide_action_a" value="true" />
+    <boolean name="hide_action_b" value="true" />
+    <boolean name="ConvoBack_Gactive" value="false" />
+    <int name="key_tab_stroke" value="1" />
+    <boolean name="quoted_text_picker_Gactive" value="false" />
+    <boolean name="key_name_stories_Gactive" value="false" />
+    <boolean name="show_thumbnail" value="false" />
+    <string name="hazar_bozkurt_arama_fix">0</string>
+    <string name="onlinedot">0</string>
+    <string name="home">0</string>
+    <boolean name="RcTargetColor_Gactive" value="false" />
+    <string name="home_kharis">3</string>
+    <string name="aero_pro_stil_fix">0</string>
+    <boolean name="AeroAyarlarArkaplan_Gactive" value="false" />
+    <boolean name="statuses_bar_text_picker_Gactive" value="false" />
+    <int name="ConvoBack_GCDir" value="2" />
+    <int name="NormalFABRengi" value="1090519039" />
+    <int name="key_tab_rounded" value="23" />
+    <int name="key_avatar_size" value="56" />
+    <boolean name="FABMetinRengi_Gactive" value="false" />
+    <int name="text_size_pick" value="13" />
+    <boolean name="rcEmojiColor_Gactive" value="false" />
+    <string name="key_quick_position">top</string>
+    <int name="key_search_border" value="547266206" />
+    <boolean name="status_audio" value="false" />
+    <boolean name="quoted_bg_picker_Gactive" value="false" />
+    <int name="chats_row_divider_picker" value="-1790819774" />
+    <int name="ModFabNormalColor" value="-1" />
+    <boolean name="Header_bawah_Gactive" value="false" />
+    <boolean name="hide_action_l" value="true" />
+    <boolean name="ModWdgStatusColor_Gactive" value="false" />
+    <boolean name="hide_action_m" value="false" />
+    <int name="key_row_size" value="60" />
+    <string name="contact_online_tone_do">0</string>
+    <int name="AeroCevrimiciNoktaAsagidanKaydir" value="48" />
+    <int name="UnSeenColor" value="-12434878" />
+    <string name="hazar_bozkurt_sesler_seskayitbasla">0</string>
+    <boolean name="NonAktifTab_Gactive" value="false" />
+    <int name="ModConDarkColor" value="-1" />
+    <int name="key_card_round" value="12" />
+    <boolean name="NameProf" value="false" />
+    <boolean name="emojipopup_body_Gactive" value="false" />
+    <boolean name="key_windows_bg" value="true" />
+    <int name="key_unseen_color" value="-11018128" />
+    <int name="AeroCevrimiciNoktaBoyut" value="10" />
+    <boolean name="ModChaSendBKColor_Gactive" value="false" />
+    <boolean name="cevronDrawer_Gactive" value="false" />
+    <boolean name="tittle_center" value="false" />
+    <boolean name="pagetitle_sel_picker_Gactive" value="false" />
+    <int name="ModDarkConPickColor" value="-1" />
+    <boolean name="Ignore_Archved" value="false" />
+    <boolean name="chat_mypicV2" value="false" />
+    <int name="ModConTextColor" value="-7434610" />
+    <string name="home_lay">1</string>
+    <boolean name="key_with_thumb" value="false" />
+    <boolean name="chats_date_pending_color_picker_Gactive" value="false" />
+    <int name="FABMetinRengi" value="-13290187" />
+    <boolean name="date_divider_color_picker_Gactive" value="false" />
+    <int name="key_badge_textcolor" value="-263173" />
+    <string name="hazar_bozkurt_sesler_seskayitdurdur">0</string>
+    <boolean name="SeenColor_Gactive" value="false" />
+    <boolean name="profile_toast" value="false" />
+    <boolean name="btn_voice_color_chat_picker_Gactive" value="false" />
+    <boolean name="key_as_thumbnail" value="false" />
+    <boolean name="key_tab_view" value="true" />
+    <boolean name="key_badge_textcolor_check" value="true" />
+    <int name="mention_color_chat_picker" value="-16777216" />
+    <int name="ModChatBtnColor" value="-13290187" />
+    <boolean name="key_counter_bg_Gactive" value="false" />
+    <boolean name="ModChatLeftBubble_Gactive" value="false" />
+    <string name="listanimation">0</string>
+    <int name="key_accent_color" value="-1118482" />
+    <string name="pic_startlocation">1</string>
+    <int name="ModChatColor_GCDir" value="1" />
+    <boolean name="key_statusbar_picker_check" value="true" />
+    <boolean name="AttBt" value="false" />
+    <boolean name="AeroAyarlarisim_Gactive" value="false" />
+    <boolean name="statuses_toast" value="false" />
+    <string name="aero_ikondegistir_yeniaramalar1">0</string>
+    <int name="key_image_resolution" value="6" />
+    <string name="aero_ikondegistir_yeniaramalar2">0</string>
+    <boolean name="ModDarkConPickColor_Gactive" value="false" />
+    <boolean name="ModChatBubbleText_Gactive" value="false" />
+    <int name="date_bubble_color_picker" value="-754974721" />
+    <int name="seekbar_color_chat_picker" value="-14841627" />
+    <boolean name="key_header_curve" value="false" />
+    <int name="ModFabPressedColor" value="-263173" />
+    <boolean name="status_nw_Gactive" value="false" />
+    <int name="statuses_bar_bg_picker" value="0" />
+    <boolean name="emojipopup_icons_Gactive" value="false" />
+    <int name="emojipopup_header" value="-1" />
+    <int name="ModChatGStatusB" value="1090519039" />
+    <int name="HomeBarText" value="-12237499" />
+    <boolean name="key_swipe_row" value="false" />
+    <boolean name="yoTostC_Gactive" value="false" />
+    <boolean name="imsHideRStatus" value="false" />
+    <boolean name="tittle_bold" value="false" />
+    <int name="ModChatGStatusT" value="-13290187" />
+    <boolean name="ArsivIkon1_Gactive" value="false" />
+    <boolean name="hiden_prof" value="false" />
+    <int name="key_fab_icon" value="-12434878" />
+    <int name="statuses_bar_text_picker" value="-13290187" />
+    <boolean name="ModHomeMentionIndBackground_Gactive" value="false" />
+    <boolean name="isSwipeEnabledV2" value="false" />
+    <string name="HomeEntryStyle">yousef</string>
+    <int name="status_nw" value="-12237499" />
+    <boolean name="arsiv_gizle" value="true" />
+    <boolean name="seekbar_color_chat_picker_Gactive" value="false" />
+    <int name="emojipopup_body_GCDir" value="2" />
+    <int name="key_border_stories_card" value="1180787041" />
+    <boolean name="key_hide_tabscroll" value="true" />
+    <int name="HazarGorulenHikaye" value="-1118482" />
+    <boolean name="enable_old" value="false" />
+    <int name="status_nm" value="-16777216" />
+    <boolean name="key_custom_badge" value="true" />
+    <int name="key_seen_color" value="1180787041" />
+    <boolean name="read_more" value="false" />
+    <int name="key_avatar_border" value="-11018128" />
+    <boolean name="AeroAyarlarMetinRengi_Gactive" value="false" />
+    <boolean name="border_poto_Gactive" value="false" />
+    <boolean name="yo_want_nightmode" value="false" />
+    <int name="key_fab_rounded" value="28" />
+    <string name="aero_ikondegistir_yenisohbet3">0</string>
+    <int name="key_wave_color" value="-1" />
+    <int name="key_row_background_color" value="-1" />
+    <boolean name="ModChatBubbleTextLeft_Gactive" value="false" />
+    <string name="aero_ikondegistir_yenisohbet1">0</string>
+    <boolean name="ModChatEntry_Gactive" value="false" />
+    <string name="aero_ikondegistir_yenisohbet2">0</string>
+    <int name="attachChat" value="-16419329" />
+    <int name="key_search_stroke" value="1" />
+    <boolean name="key_fab_elevation" value="true" />
+    <int name="key_fab_border" value="0" />
+    <boolean name="ModFabNormalColor_Gactive" value="false" />
+    <int name="participant_name_color_picker" value="-9079435" />
+    <boolean name="Audio_ears" value="false" />
+    <int name="ModChatEntry" value="-197380" />
+    <int name="AeroCevrimiciNoktaRenk" value="-13290187" />
+    <boolean name="yoTostT_Gactive" value="false" />
+    <boolean name="UstMetinleriGizle" value="false" />
+    <int name="square_photo_ratio_picker" value="100" />
+    <boolean name="statuses_bar_bg_picker_Gactive" value="false" />
+    <boolean name="group_participants_picV2" value="true" />
+    <boolean name="key_navigation_padding" value="true" />
+    <string name="hazar_bozkurt_sesler_gidenmesaj">0</string>
+    <boolean name="Text_Nama_Gactive" value="false" />
+    <boolean name="ModChatBubbleHyperlinks_Gactive" value="false" />
+    <int name="BadgePozisyonu" value="35" />
+    <int name="arc_hc" value="-12237499" />
+    <int name="ConvoBack_GC" value="-536471" />
+    <boolean name="ig_story_Gactive" value="false" />
+    <boolean name="attachCiat_Gactive" value="false" />
+    <int name="ModConColor_GC" value="-1223887" />
+    <int name="SeenColor" value="-1118482" />
+    <string name="aero_ikondegistir_yeniaramalar3">0</string>
+    <int name="ModOnlineColor" value="-4342339" />
+    <boolean name="hiden_instagram" value="false" />
+    <boolean name="h_vs_s" value="false" />
+    <int name="kota_an_njero" value="-11645362" />
+    <int name="ModChaSendBKColor" value="-1" />
+    <boolean name="RcBkTabs_Gactive" value="false" />
+    <boolean name="ModContactNameColor_Gactive" value="false" />
+    <string name="aero_toast_pozisyon">0</string>
+    <boolean name="newAttach_BottomDesign" value="false" />
+    <boolean name="key_toolbar_elevation" value="true" />
+    <int name="chat_icon_bg_forward_picker" value="-1118482" />
+    <boolean name="Hide_div" value="true" />
+    <boolean name="key_fab_border_check" value="true" />
+    <boolean name="GP_EDIT" value="false" />
+    <string name="recent">-14841627‚‗‚-4342339‚‗‚-4464901‚‗‚822083583‚‗‚0‚‗‚-16725933‚‗‚-3211551‚‗‚-6886473‚‗‚-1314836‚‗‚-655880‚‗‚-5552196‚‗‚-1719062‚‗‚-3366958‚‗‚-513‚‗‚-199171‚‗‚-8910709‚‗‚-1499549‚‗‚-273953‚‗‚-67334‚‗‚-463632‚‗‚-206726‚‗‚-69946‚‗‚-1911112‚‗‚-14342875‚‗‚-329744‚‗‚-13619152‚‗‚-13757‚‗‚-331822‚‗‚-3829489‚‗‚-765666‚‗‚-206900‚‗‚-263173‚‗‚-395532‚‗‚-861483‚‗‚-12434878‚‗‚-1118482‚‗‚-6974059‚‗‚-1‚‗‚-14606047‚‗‚-1381654</string>
+    <string name="hazar_bozkurt_hikaye_fix">0</string>
+    <boolean name="list_bg_color_Gactive" value="false" />
+    <boolean name="Header_atas_Gactive" value="false" />
+    <string name="AeroAyricaliklariTasarim">0</string>
+    <boolean name="hide_chatting" value="false" />
+    <int name="ModWdgTitleColor" value="-16777216" />
+    <int name="warna_fab_icon" value="-13290187" />
+    <int name="ModFabText" value="-16419329" />
+    <int name="ig_story" value="-1" />
+    <int name="emojipopup_body_GC" value="-1223887" />
+    <boolean name="bgarchived_Gactive" value="false" />
+    <string name="ui_home_styleV3">ios</string>
+    <int name="quoted_bg_picker_GCDir" value="3" />
+    <int name="ModHomeMentionIconColor" value="-1118482" />
+    <boolean name="chat_contactpicV2" value="false" />
+    <string name="key_tab_styles">v1</string>
+    <int name="key_navigationbar_picker" value="-47803" />
+    <boolean name="key_wallpaper_view" value="false" />
+    <boolean name="chats_row_divider_picker_Gactive" value="false" />
+    <int name="Text_Drawer" value="-16579837" />
+    <boolean name="HomeText_Gactive" value="false" />
+    <int name="key_stories_name" value="-1" />
+    <int name="ModConBackColor" value="0" />
+    <boolean name="Hide_contact_picker_section_recent_chats" value="false" />
+    <int name="chats_date_pending_color_picker" value="-6974059" />
+    <boolean name="hiden_ss" value="false" />
+    <boolean name="key_badge_background_check" value="true" />
+    <int name="key_counter_tx" value="-1118482" />
+    <int name="AktifTab" value="-16777216" />
+    <boolean name="hide_acv" value="false" />
+    <int name="HomeCounterText" value="-1118482" />
+    <boolean name="aero_son_rengi_Gactive" value="false" />
+    <int name="key_tab_border" value="547266206" />
+    <boolean name="key_stories_view" value="true" />
+    <boolean name="key_hide_thumbnail" value="false" />
+    <boolean name="AerosayiRenk_Gactive" value="false" />
+    <boolean name="key_hide_search" value="false" />
+    <int name="BGColor" value="-1" />
+    <string name="key_transformer_pager">0</string>
+    <boolean name="hiden_nav" value="false" />
+    <boolean name="ModConTextColor_check" value="true" />
+    <int name="bgarchived" value="-1" />
+    <boolean name="pagetitle_picker_Gactive" value="false" />
+    <boolean name="key_ig_thumbnail" value="false" />
+    <boolean name="quoted_divider_picker_Gactive" value="false" />
+    <string name="aero_ikondegistir_yenisohbet">2</string>
+    <string name="aero_ikondegistir_tabkamera">0</string>
+    <boolean name="ModChaSendColor_Gactive" value="false" />
+    <int name="ModChatEmojiColor" value="-13290187" />
+    <int name="ModChaSendColor" value="-13290187" />
+    <int name="pagetitle_sel_picker" value="-16448251" />
+    <boolean name="ArsivArkaPlan_Gactive" value="false" />
+    <int name="ArsivArkaPlan" value="0" />
+    <boolean name="Text_Drawer_Gactive" value="false" />
+    <int name="tabadgeBKColor" value="-12434878" />
+    <boolean name="admin_check" value="false" />
+    <boolean name="emojipopup_header_Gactive" value="false" />
+    <boolean name="key_home_swipe" value="false" />
+    <boolean name="home_imgBK" value="true" />
+    <string name="yo_nicons">50</string>
+    <boolean name="quoted_name_picker_Gactive" value="false" />
+    <boolean name="custom_wall_profilepic" value="false" />
+    <string name="hazar_bozkurt_aero_hizlikisiler">3</string>
+    <boolean name="mention_color_chat_picker_Gactive" value="false" />
+    <boolean name="stkr_wantsendconfirmation" value="true" />
+    <int name="key_row_radius" value="12" />
+    <boolean name="AktifTab_Gactive" value="false" />
+    <int name="tabadgeTextColor" value="-263173" />
+    <string name="ConvoEntry">28</string>
+    <int name="cevronChat" value="-9079435" />
+    <boolean name="hide_fab_depan" value="false" />
+    <int name="AeroCevrimiciNoktaSagdanKaydir" value="0" />
+    <int name="ModConColor" value="-1" />
+    <boolean name="chats_show_contact_online_toast_check" value="false" />
+    <string name="tick_style">bwticks</string>
+    <int name="ModConPickColor_GC" value="-16419329" />
+    <boolean name="chats_show_contact_online_toast_check_" value="false" />
+    <int name="tabindicator" value="31487" />
+    <boolean name="imsHideMStatus" value="false" />
+    <boolean name="ModChatTextColor_Gactive" value="false" />
+    <int name="key_story_stroke" value="1" />
+    <boolean name="key_quick_view" value="true" />
+    <int name="key_search_textcolor" value="547266206" />
+    <int name="key_tab_select" value="-47803" />
+    <int name="key_custom_theme" value="-328966" />
+    <boolean name="key_fab_color_Gactive" value="true" />
+    <int name="key_search_rounded" value="23" />
+    <boolean name="PicHead" value="false" />
+    <boolean name="AerosohbetlerRenk_Gactive" value="false" />
+    <int name="Header_bawah" value="-263173" />
+    <boolean name="ModFabPressedColor_Gactive" value="false" />
+    <int name="key_fab_color" value="-1118482" />
+    <boolean name="ikonNavigasi_Gactive" value="false" />
+    <int name="mention_color_chats_picker" value="-16777216" />
+    <int name="HomeBarBar" value="-15895057" />
+    <boolean name="ProfilResmiCerceve_Gactive" value="false" />
+    <boolean name="ModConPickColor_Gactive" value="false" />
+    <string name="HomeEntry">aeroprime3</string>
+    <string name="hazar_bozkurt_sesler_gelenmesaj">0</string>
+    <int name="date_divider_color_picker" value="-13290187" />
+    <int name="main_text" value="16" />
+    <boolean name="ModChatRightBubble_Gactive" value="false" />
+    <boolean name="key_fab_icon_check" value="true" />
+    <boolean name="hiden_sech" value="false" />
+    <boolean name="ModConColor_Gactive" value="false" />
+    <int name="key_name_stories" value="-1118482" />
+    <int name="ModChatBubbleText" value="-13290187" />
+    <int name="rvkdmsg_icon_color" value="-64251" />
+    <string name="aero_hazar_hikaye_ekrani">0</string>
+    <string name="hazar_bozkurt_sesler_gecis2">0</string>
+    <boolean name="warna_fab_icon_Gactive" value="false" />
+    <boolean name="ModChatGStatusB_Gactive" value="false" />
+    <int name="key_fab_color_orient" value="7" />
+    <string name="hazar_bozkurt_sesler_gecis1">0</string>
+    <boolean name="key_tab_bg" value="false" />
+    <boolean name="aeroHazarBarRenk_Gactive" value="false" />
+    <int name="emojipopup_icons" value="-13290187" />
+    <boolean name="arc_hc_Gactive" value="false" />
+    <int name="ModContactNameColor" value="-13290187" />
+    <boolean name="Audio_sensor" value="false" />
+    <boolean name="status_nm_Gactive" value="false" />
+    <boolean name="mention_color_chats_picker_Gactive" value="false" />
+    <boolean name="h_mvs_s" value="false" />
+    <boolean name="tabadgeTextColor_Gactive" value="false" />
+    <boolean name="BGColor_Gactive" value="false" />
+    <boolean name="ModFabText_Gactive" value="false" />
+    <boolean name="yx_home_fix" value="false" />
+    <int name="emojipopup_body" value="-1" />
+    <int name="ikonNavigasi" value="-16748801" />
+    <string name="key_home_style">1</string>
+    <string name="chats_play_contact_online_tone"></string>
+    <boolean name="ModChatEmojiColor_Gactive" value="false" />
+    <boolean name="ModChatBtnColor_Gactive" value="false" />
+    <int name="ModChatRightBubble" value="-554766610" />
+    <boolean name="ModHomeMentionIconColor_Gactive" value="false" />
+    <int name="emojipopup_header_GCDir" value="2" />
+    <int name="ModChatLeftBubble" value="-554766610" />
+    <string name="aero_profil_dizayn">1</string>
+    <boolean name="start_bl" value="false" />
+    <string name="aero_toast_sure">0</string>
+    <int name="yoTostC" value="-12434878" />
+    <boolean name="chat_icon_forward_picker_Gactive" value="false" />
+    <int name="quoted_bg_picker_GC" value="-1980935375" />
+    <int name="AeroAyarlarMetinRengi" value="-12434878" />
+    <boolean name="yo_want_airplanemode" value="false" />
+    <int name="warna_fab_normal" value="-1" />
+    <int name="status_ch" value="-12237499" />
+    <boolean name="Archv_chats" value="true" />
+    <int name="yoTostT" value="-1" />
+    <int name="aero_son_rengi" value="-13290187" />
+    <boolean name="ModOnlineColor_Gactive" value="false" />
+    <boolean name="hiden_search_act" value="true" />
+    <boolean name="PicProf" value="false" />
+    <boolean name="AeroCevrimiciNoktaRenk2_Gactive" value="false" />
+    <int name="chat_icon_forward_picker" value="-12434878" />
+    <int name="key_tab_unselect" value="-12105903" />
+    <boolean name="SifrelemeDogrulamaGizle" value="true" />
+    <int name="ModConPickColor_GCDir" value="1" />
+    <int name="ArsivIkon1" value="-1118482" />
+    <boolean name="hiden_group" value="false" />
+    <boolean name="key_toolbar_picker_check" value="true" />
+    <string name="bubble_style">cvios</string>
+    <boolean name="ModChatColor_Gactive" value="false" />
+    <int name="key_search_bg" value="-1" />
+    <boolean name="cevronChat_Gactive" value="false" />
+    <int name="HazarGorulmeyenHikaye" value="-13290187" />
+    <int name="key_statusbar_picker" value="-12434878" />
+    <boolean name="h_ms_s" value="false" />
+    <boolean name="pic_inside" value="false" />
+    <boolean name="HomeCounterText_Gactive" value="false" />
+    <boolean name="key_translucent_statusbar" value="false" />
+    <int name="AeroAyarlarArkaplan" value="-1" />
+    <string name="key_chats_listanimation">0</string>
+    <boolean name="key_search_elevation" value="false" />
+    <int name="quoted_name_picker" value="-14671840" />
+    <string name="aero_ikondegistir_aramaikonu">0</string>
+    <int name="AeroAyarlarisim" value="-12434878" />
+    <int name="key_badge_background" value="-12434878" />
+    <boolean name="log_show_name_check" value="true" />
+    <string name="auto_notify_key">0</string>
+    <boolean name="tabindicator_Gactive" value="false" />
+    <boolean name="Text_Status_Gactive" value="false" />
+    <boolean name="Hide_contact_picker_section_other_contacts" value="false" />
+    <int name="ModWdgStatusColor" value="-9079435" />
+    <boolean name="aero_yaziyor_rengi_Gactive" value="false" />
+    <int name="row_resizer" value="195" />
+    <int name="Text_nama" value="-16777216" />
+    <boolean name="enable_ig_stories" value="false" />
+    <int name="key_quick_bg" value="-1" />
+    <int name="ModConPickColor" value="0" />
+    <boolean name="SearchViw_Gactive" value="false" />
+    <string name="aero_gecis_efekti">0</string>
+    <string name="key_story_view">0</string>
+    <boolean name="Aero_AramaSimgesiGizle" value="false" />
+    <boolean name="date_left_color_Gactive" value="false" />
+    <boolean name="rvkdmsg_icon_color_Gactive" value="false" />
+    <boolean name="runtex_Gactive" value="false" />
+    <int name="ModConColor_GCDir" value="1" />
+    <boolean name="UnSeenColor_Gactive" value="false" />
+    <boolean name="ModConBackColor_Gactive" value="false" />
+    <int name="key_stories_card" value="-1" />
+    <int name="Text_Nama" value="-16579837" />
+    <int name="pic_chat_size_pickerV2" value="40" />
+    <boolean name="custom_wall" value="false" />
+    <boolean name="aero_isim_rengi_Gactive" value="false" />
+    <boolean name="elapsed_time" value="false" />
+    <int name="btn_voice_color_chat_picker" value="-14841627" />
+    <boolean name="ModlastseenColor_Gactive" value="false" />
+    <string name="key_application_theme">0</string>
+    <int name="ModHomeMentionIndBackground" value="-12434878" />
+    <boolean name="FABIkonRengi_Gactive" value="false" />
+    <int name="FABIkonRengi" value="-13290187" />
+    <int name="ModWdgBKColor" value="-263173" />
+    <boolean name="enable_size" value="false" />
+    <boolean name="ikonDrawer_Gactive" value="false" />
+    <int name="ModChatTextColor" value="-13290187" />
+    <boolean name="ModFabColor_Gactive" value="false" />
+    <boolean name="warna_fab_normal_Gactive" value="false" />
+    <boolean name="ModWdgBKColor_Gactive" value="false" />
+    <boolean name="participant_name_color_picker_Gactive" value="false" />
+    <boolean name="enable_grp_separation" value="false" />
+    <boolean name="key_story_elevation" value="false" />
+    <boolean name="HazarGorulenHikaye_Gactive" value="false" />
+    <int name="key_border_convs_card" value="1180787041" />
+</map>
